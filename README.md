@@ -2,7 +2,7 @@
 Breast Cancer Wisconsin (Original) from UCI Dataset using Pyspark
 
 Link Dataset : https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original) \
-Classification 2 Class | Beningn and Malignant : \
+Classification 2 Class | Beningn and Malignant : 
 
 | Classifier  | Accuracy % |
 | ------------- | ------------- |
